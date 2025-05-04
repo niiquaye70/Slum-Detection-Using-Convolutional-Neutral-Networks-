@@ -5,4 +5,4 @@ In this project, I aim to leverage satellite imagery and deep learning technique
 
 ### This Density of Annotated Slum Concentration in Accra 
 
-![Annotation_vis](https://niiquaye70.github.io/Slum-Detection-Using-Convolutional-Neutral-Networks-/)
+[View Slum Density Map](https://niiquaye70.github.io/Slum-Detection-Using-Convolutional-Neutral-Networks-/)
